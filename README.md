@@ -29,3 +29,5 @@ That means don't use the water spray to annoy players. Because you don't let the
 **VIP RULES** 
 
 VIP's must follow all rules, but most importantly they must not abuse the extra features given to them. (Example: killing with the Jetpack is not cool because other players cannot spawn a jetpack).
+
+#Writen By Rx Admins.
